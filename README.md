@@ -1,9 +1,8 @@
-Download few-shot data: https://drive.google.com/file/d/1gkHVsMl0e8SaQctjcTJXSohh7SoWmYXF/view?usp=drive_link
 
 
-Download data for self-training: https://drive.google.com/file/d/1gkHVsMl0e8SaQctjcTJXSohh7SoWmYXF/view?usp=sharing
+Download data: https://drive.google.com/file/d/1gkHVsMl0e8SaQctjcTJXSohh7SoWmYXF/view?usp=sharing
 
-Download model: https://drive.google.com/file/d/1Q_DEBxPzcSqOpXvzSpIX0pv68wurrG05/view?usp=drive_link
+Download model: https://drive.google.com/file/d/1z_CjEKcWnhzygdtafdjzyUHn81yUC51Y/view?usp=sharing
 
 
 ```
